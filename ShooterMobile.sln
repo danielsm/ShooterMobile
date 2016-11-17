@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3A3F833B-0132-4F2B-C5DF-6BA9A4CE39D9}") = "ShooterMobile", "Assembly-CSharp.csproj", "{27219B53-0DA6-3B35-D52D-A110806A93FD}"
+EndProject
+Project("{3A3F833B-0132-4F2B-C5DF-6BA9A4CE39D9}") = "ShooterMobile", "Assembly-CSharp-Editor.csproj", "{47373A90-043D-94F2-E65E-4F506E72622D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27219B53-0DA6-3B35-D52D-A110806A93FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27219B53-0DA6-3B35-D52D-A110806A93FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27219B53-0DA6-3B35-D52D-A110806A93FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27219B53-0DA6-3B35-D52D-A110806A93FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47373A90-043D-94F2-E65E-4F506E72622D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47373A90-043D-94F2-E65E-4F506E72622D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47373A90-043D-94F2-E65E-4F506E72622D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47373A90-043D-94F2-E65E-4F506E72622D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
